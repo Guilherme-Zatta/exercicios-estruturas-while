@@ -7,7 +7,8 @@ public class Z_Exercício06 {
         int limite = 100;
         int incremento = 10;
 
-        System.out.println("Temperatura em Celsius e Fahrenheit de 10°C até 100°C");
+        System.out.println("\nTemperatura de 10°C até 100°C com corversão em Fahrenheit:");
+        System.out.println("\nCelsius\tFahrenheit");
 
         int somatoria = 32;
         while (celsius <= limite) {
