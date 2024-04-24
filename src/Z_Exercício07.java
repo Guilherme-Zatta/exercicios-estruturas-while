@@ -6,5 +6,15 @@ public class Z_Exercício07 {
         //no terceiro quadro colocam-se quatro grãos (tendo neste momento sete grãos), no quarto quadro colocam-se oito grãos (tendo-se, então, 15 grãos), 
         //até atingir o sexagésimo quarto.
 
+
+
+
+
+        //   ESTA COM PROBLEMA 
+
+
+
+
+
     }
 }

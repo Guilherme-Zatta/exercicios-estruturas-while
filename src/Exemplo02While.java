@@ -1,4 +1,4 @@
-public class ExemploWhile02 {
+public class Exemplo02While {
     public static void main(String[] args) {
       int contador = 1;
   
